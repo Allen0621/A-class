@@ -1,0 +1,24 @@
+viod setup(){}
+
+viod loop (){}
+
+digitalWrite(pin,1/0);
+
+delay(ms);
+
+digitalRead(pin);
+
+if(T/F){}
+
+for(起始數值;範圍限制;每次跳的次數){}
+
+Array[幾個格子]{}
+
+switch(變數){
+	case A1:
+	break;
+	case A2:
+	break;
+	case A3:
+	break;
+}
